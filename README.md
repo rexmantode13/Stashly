@@ -37,7 +37,7 @@ A centralized platform for saving, organizing, and retrieving your digital resou
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/http-snehal/Stashly.git
+git clone https://github.com/rexmantode13/Stashly.git
 cd Stashly
 ```
 
