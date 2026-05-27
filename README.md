@@ -147,6 +147,11 @@ A major upcoming feature set focused on enabling multi-user collaboration and sh
 
 ---
 
+✨ Deployment:-
+    https://www.stashly.in
+
+ ---   
+
 ## License
 
 MIT
